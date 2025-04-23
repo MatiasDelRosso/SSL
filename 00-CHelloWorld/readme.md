@@ -4,4 +4,4 @@ Compilador Seleccionado: GCC mediante MinGW
 
 Versión del compilador: 14.2.0
 
-La versión de C que el compilador compila es C23
+La versión de C que el compilador compila es C17
